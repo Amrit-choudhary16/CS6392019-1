@@ -1,9 +1,9 @@
-I am Robert Consigliere and I tested the app of Amrit Choudhary.
+I am Amrit ChoudharyRobert Consigliere and I tested the app of Robert Consigliere.
 The Min and Target versions of the SDKs are 15 and 28.
-I Tested the app on an emulator with OS Pie x86.
+I Tested the app on an emulator with OS Pie x86 and on an android device(OnePlus 6) running on PIE.
 The app does not crash.
 The app does display:
-Hello Amrit Choudhary
+Hello Robert Consigliere
 And
 Welcome in CS 639 Summer 2019
 The name of the student is displayed.
